@@ -1,12 +1,49 @@
 # kaggle_allstate_652c
 - Final  project of 652
 - Data from kaggle 
-- More about the team project
-Form a team as soon as possible Insert the team info here before 9/15: https://docs.google.com/presentation/d/1Gtto2Qp2Ef2NK_VOgK71VrCxQBP-mdlkz5T2sDj-LkA/edit? usp=sharing (https://docs.google.com/presentation/d/1Gtto2Qp2Ef2NK_VOgK71VrCxQBP-mdlkz5T2sDj-LkA/edit?usp=sharing) Give your team a name. Include a picture/name of each member in the above slide deck Each team members introduce himself/herself in 1-2 min on the third class (9/15)
-introduce the members any special skill/interest facts about the members? where in the world you are from? any initial idea about what you data you like to explore? Initial proposal due by 7th class (10/13). insert your initial proposal to the above link right after your team page before the class 3 min presentation of your proposal @ class Describe:
-what's the problem? Why is it interesting to you? how to you plan on ﬁnding the data? what's your initial thoughts on how to solve it?
-Project updates (10/27, 11/10) insert your progress slides in the above link right after your team page before the class 3 min update By 10/27 you should have identiﬁed your problem & data, and did prelinimary analysis & visualization By 11/10 you should have got many of your results and be writing your ﬁnal paper and presentation Paper (due before the second last class 12/1) Submit via canvas with a ﬁle name "title_name1_name2_name3" Each member of the team needs to submit to canvas Each team hands me a print out of your paper before or on 12/1. Must be like a proper academic paper, typical sections: title (e.g., "Predicting Who Will Win the US Predential Election Using Twitter Data and
-Logistic Regression") author names & abstract introduction: what are you studying? Why is the problem important/interesting? data: where do you get the data? What do you do to clean the data? methods: what methods do you apply to the data? Explain the method a little for people who are not familiar results: show your results in tables and visualizations discussions: what do you ﬁnd? Any limitations to the ﬁndings or the methods used? conclusion: summarize the paper, point out work to be done
-Final presentation (12/1, 8): share with me a Google slide link before 12/1. The ﬁle name should be "title_name1_name2_name3" . I will collect them into one folder of slides Each team must take part in the presentation, you decide who talks about what. Total time about 15 min
+### More about the team project
 
-Grades: presentation: knowledge clarity paper slides Ideas? take a look at http://www3.cs.stonybrook.edu/~skiena/591/ﬁnal_projects/ (http://www3.cs.stonybrook.edu/~skiena/591/ﬁnal_projects/)
+- Form a team as soon as possible
+- Insert the team info here before 9/15: [https://docs.google.com/presentation/d/1Gtto2Qp2Ef2NK_VOgK71VrCxQBP-mdlkz5T2sDj-LkA/edit?usp=sharing](https://docs.google.com/presentation/d/1Gtto2Qp2Ef2NK_VOgK71VrCxQBP-mdlkz5T2sDj-LkA/edit?usp=sharing)
+- Give your team a name. Include a picture/name of each member in the above slide deck
+- Each team members introduce himself/herself in 1-2 min on the third class (9/15)
+  - introduce the members
+  - any special skill/interest facts about the members? where in the world you are from? 
+  - any initial idea about what you data you like to explore?
+- Initial proposal due by 7th class (10/13). 
+  - insert your initial proposal to the above link right after your team page before the class
+  - 3 min presentation of your proposal @ class
+  - Describe: 
+   - what's the problem? Why is it interesting to you?
+   - how to you plan on finding the data?
+   - what's your initial thoughts on how to solve it?
+- Project updates (10/27, 11/10)
+  - insert your progress slides in the above link right after your team page before the class 
+  - 3 min update
+  - By 10/27 you should have identified your problem & data, and did prelinimary analysis & visualization
+  - By 11/10 you should have got many of your results and be writing your final paper and presentation
+- Paper (due before the second last class 12/1)
+  - Submit via **canvas** with a file name "title_name1_name2_name3" 
+  - Each member of the team needs to submit to canvas
+  - Each team hands me a print out of your paper before or on 12/1.
+  - Must be like a proper academic paper, typical sections: 
+    - title (e.g., "Predicting Who Will Win the US Predential Election Using Twitter Data and Logistic Regression")
+    - author names & abstract 
+    - introduction: what are you studying? Why is the problem important/interesting?
+    - data: where do you get the data? What do you do to clean the data?
+    - methods: what methods do you apply to the data? Explain the method a little for people who are not familiar
+    - results: show your results in tables and visualizations
+    - discussions: what do you find? Any limitations to the findings or the methods used?
+    - conclusion: summarize the paper, point out work to be done
+- Final presentation (12/1, 8):
+  - share with me a Google slide link before 12/1. The file name should be "title_name1_name2_name3" .
+  - I will collect them into one folder of slides
+  - Each team must take part in the presentation, you decide who talks about what. Total time about 15 min 
+- Grades:
+  - presentation:
+     - knowledge
+     - clarity
+  - paper
+  - slides
+- Ideas?
+  - take a look at [http://www3.cs.stonybrook.edu/~skiena/591/final_projects/](http://www3.cs.stonybrook.edu/~skiena/591/final_projects/)
